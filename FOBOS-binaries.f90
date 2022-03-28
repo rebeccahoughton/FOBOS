@@ -176,6 +176,8 @@ PROGRAM binaries
     !Close files
     CLOSE(1)
 
+    !add some words and things 
+
 END PROGRAM binaries
 
 !----------------------------------------------------------------
