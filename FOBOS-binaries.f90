@@ -125,7 +125,7 @@ PROGRAM binaries
     !File preamble
         CALL DATE_AND_TIME(DATE=dat,TIME=tim,VALUES=dt)
         WRITE(1,'(A)') "This file contains the results of testing the FOBOS code (Houghton & Goodwin, in prep)"
-        WRITE(1,'(A)') " for two data points on the binary/exoplanetary system: ",trim(name)
+        WRITE(1,'(A)') "using two astrometric data points on the binary/exoplanetary system: ",trim(name)
         WRITE(1,'(A,I2,A,I2,A,I4,A,I2,A,I2,A,I2)') "This simulation ran on ",dt(3),"/",dt(2),"/",dt(1), & 
         " at ",dt(5),":",dt(6),":",dt(7)
         WRITE(1,'(A,F4.2,A,F4.2,A,F4.2)') "Object masses: m1=",M(1),", m2=",M(2)
