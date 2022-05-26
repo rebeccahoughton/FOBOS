@@ -1,0 +1,5 @@
+M_primary	Error	M_companion	Error	Distance	Error
+----------------------------------------------------------------------
+1.31		0.01	0.011		0.01	40.7705		0.0589
+
+Note: This is example data for system HD206893B (Ward-Duong et al. 2021). The actual input files should contain only numerical values, not the column headings.
