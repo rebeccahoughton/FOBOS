@@ -33,5 +33,5 @@ Distributed under the MIT License. See LICENSE.txt for more information
 
 ## Contact
 
-Rebecca Houghton - @astro_rebecca -rhoughton1@sheffield.ac.uk
+Rebecca Houghton - @astro_rebecca - rhoughton1@sheffield.ac.uk
 Project link: https://github.com/rebeccahoughton/FOBOS
